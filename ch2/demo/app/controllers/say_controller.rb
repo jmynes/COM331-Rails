@@ -1,6 +1,6 @@
 class SayController < ApplicationController
   def hello
-    @time = Time.now
+    @time = Time.know
   end
 
   def goodbye
